@@ -1,3 +1,5 @@
 This will be my first official solo git project!
 
-The project will be a website utilizing html and css?. It will display recipes and at least one image.
+The project will be a website solely utilizing html. It will display recipes along with accompanying images.
+
+Please enjoy!
